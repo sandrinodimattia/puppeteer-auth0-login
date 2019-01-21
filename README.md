@@ -9,7 +9,7 @@ Requires Node 8.
 - Get an Auth0 account
 - Create a "Single Page Application" client and set the Callback URL to http://jwt.io
 - Create a new database user
-- Update the `env.js` file
+- Update the `env.example.js` file and rename to `env.js`
 - Run it using `node index`
 
 ## Example
