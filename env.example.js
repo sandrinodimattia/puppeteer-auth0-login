@@ -5,3 +5,4 @@ module.exports = {
   email: 'user@example.com',
   password: 'user'
 };
+
